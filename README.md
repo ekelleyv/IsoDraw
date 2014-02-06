@@ -1,4 +1,4 @@
-TriGrid
+IsoDraw
 =======
 
 An isometric drawing tool.
